@@ -1,2 +1,3 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ryotaro-tenya0727&count_private=true&show_icons=true" />
+<img align="left" src="[！[Top Langs ]（https://github-readme-stats.vercel.app/api/top-langs/？username = 
+ryotaro-tenya0727）]（https://github.com/anuraghazra/github-readme-stats）" />
 
