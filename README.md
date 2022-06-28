@@ -1,11 +1,2 @@
 
-<p align="left">
-  
-<img height="150px" src = "https://github-readme-stats.vercel.app/api?username=ryotaro-tenya0727&show_icons=true&theme=radical" />
-
-
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryotaro-tenya0727&layout=compact&theme=onedark" />
-              
-</p>
-            
-![11](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryotaro-tenya0727&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryotaro-tenya0727&theme=github)
