@@ -1,19 +1,19 @@
-## 技術ブログ
+# 技術ブログ
 
 
-#### [https://otaku-programmer.com](https://otaku-programmer.com)
+### [https://otaku-programmer.com](https://otaku-programmer.com)
 
 
-## 個人開発
+# 個人開発
 
-### 推しだいありー(アイドルファン向けWEBサービス)
+## 推しだいありー(アイドルファン向けWEBサービス)
 
-#### [https://www.oshi-diary.com](https://www.oshi-diary.com)
+### [https://www.oshi-diary.com](https://www.oshi-diary.com)
 
-### 概要
+## 概要
 アイドルファンが推しメンとの思い出のチェキや写真、その日あった出来事を日記のように記録できるサービス 
 
-### 使用技術
+## 使用技術
 Rails React AWS Docker CircleCI 
 
 
@@ -21,7 +21,7 @@ Rails React AWS Docker CircleCI
 
 
 
-## Githubのスタッツ
+# Githubのスタッツ
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryotaro-tenya0727&theme=github)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryotaro-tenya0727&theme=github&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryotaro-tenya0727&theme=github)
