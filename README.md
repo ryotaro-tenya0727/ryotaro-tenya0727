@@ -1,6 +1,12 @@
-## 学んだことを発信している技術ブログ
+## 個人開発
 
-#### [技術ブログ](https://otaku-programmer.com/)
+### 推しだいありー(アイドルファン向けWEBサービス)
+
+#### [https://www.oshi-diary.com](https://www.oshi-diary.com)
+
+### 技術ブログ
+
+#### [https://otaku-programmer.com](https://otaku-programmer.com)
 
 ## Githubのスタッツ
 
