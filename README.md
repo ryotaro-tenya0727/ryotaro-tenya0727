@@ -6,6 +6,13 @@
 
 ## 個人開発
 
+| 推しだいありー | 
+|---| 
+|アイドルファンが推しメンとの思い出のチェキや写真、その日あった出来事を日記のように記録できるサービス | 
+|https://www.oshi-diary.com|
+
+<img src="https://user-images.githubusercontent.com/71915489/180005022-9217bf43-0b26-43b6-9753-7e5510adfa0e.png" width="500">
+
 ### 推しだいありー(アイドルファン向けWEBサービス)
 
 #### [https://www.oshi-diary.com](https://www.oshi-diary.com)
