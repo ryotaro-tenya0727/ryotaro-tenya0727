@@ -14,7 +14,7 @@
 アイドルファンが推しメンとの思い出のチェキや写真、その日あった出来事を日記のように記録できるサービス 
 
 ## 使用技術
-Rails React AWS Docker CircleCI 
+#### Rails React AWS Docker CircleCI 
 
 
 <img src="https://user-images.githubusercontent.com/71915489/180005022-9217bf43-0b26-43b6-9753-7e5510adfa0e.png" width="500">
